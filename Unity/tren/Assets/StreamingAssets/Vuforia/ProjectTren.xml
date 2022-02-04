@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ValfKutusu" size="10.000000 7.184428" />
+    <ImageTarget name="KApak2Boyut" size="10.000000 6.751740" />
+    <ImageTarget name="tren" size="10.000000 5.624422" />
+  </Tracking>
+</QCARConfig>

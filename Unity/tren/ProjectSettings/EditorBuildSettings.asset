@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Tren/Tren.unity
+    guid: 526f03c2fc47b244fba7c58541bb6566
+  - enabled: 0
+    path: Assets/Evyap/Evyap.unity
+    guid: 441c930903b4716438774cfc11023dbb
+  m_configObjects: {}
